@@ -1,0 +1,19 @@
+{
+  "name": "typescript-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "eslint-config": "^1.0.0",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.3"
+  },
+  "scripts": {
+    "lint": "eslint"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "javascript-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eslint": "^9.18.0",
+    "eslint-config": "^1.0.0"
+  }
+}

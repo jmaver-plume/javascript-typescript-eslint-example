@@ -1,0 +1,11 @@
+{
+  "workspaces": [
+    "eslint-config",
+    "javascript-package",
+    "typescript-package"
+  ],
+  "type": "commonjs",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
